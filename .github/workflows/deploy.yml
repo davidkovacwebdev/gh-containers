@@ -1,4 +1,4 @@
-name: Deployment (Containerr)
+name: Deployment (Container)
 on:
   push:
     branches:
